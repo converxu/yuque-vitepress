@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Yuque-VitePress"
-  text: "文档站点解决方案"
-  tagline: 语雀 + Elog + VitePress + GitHub Actions + Vercel 持续集成
+  name: "直播先生"
+  text: "分享直播技术"
+  tagline: AI直播、AI语音直播、AI数字人直播相关技术
   actions:
     - theme: brand
       text: 快速开始

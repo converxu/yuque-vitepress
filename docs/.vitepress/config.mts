@@ -5,8 +5,8 @@ import { YuQueSVG } from "../../utils/assists";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "zh-CN",
-  title: "Yuque-VitePress",
-  description: "语雀 + Elog + VitePress + GitHub Actions + Vercel 文档站点解决方案",
+  title: "直播先生",
+  description: "分享直播技术，AI直播、AI语音直播、AI数字人直播相关技术",
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
@@ -22,7 +22,7 @@ export default defineConfig({
     outline: [2,6],
     nav: [
       { text: '首页', link: '/' },
-      { text: '配置文档', link: '/docs/入门指引/快速开始', activeMatch: '/docs/' },
+      { text: '配置文档', link: '/docs/AI数字人直播/自序：当短视频遇上AI，普通人如何抓住这波财富浪潮？', activeMatch: '/docs/' },
       // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
     ],
     sidebar: {

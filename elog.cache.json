@@ -1,0 +1,159 @@
+{
+  "docs": [
+    {
+      "id": 226983360,
+      "doc_id": "swho8lm85ob1aycs",
+      "updated": 1751882804000,
+      "properties": {
+        "title": "自序：当短视频遇上AI，普通人如何抓住这波财富浪潮？",
+        "urlname": "swho8lm85ob1aycs",
+        "date": "2025-07-07 18:04:09",
+        "updated": "2025-07-07 18:06:44",
+        "description": "在这个信息爆炸的时代，互联网的财富风口正以令人目眩的速度更迭。从电商初兴时淘金者的狂欢，到社交媒体崛起中网红经济的爆发，再到短视频时代流量霸主的争夺，每一次技术变革都像一场狂风暴雨，彻底重塑商业世界的格局，同时也为普通人打开了一扇通往财富自由的大门。如今，AI（人工智能）与直播的深度融合，正掀..."
+      },
+      "catalog": [
+        {
+          "title": "AI数字人直播",
+          "doc_id": "swho8lm85ob1aycs"
+        }
+      ],
+      "realName": "自序：当短视频遇上AI，普通人如何抓住这波财富浪潮？",
+      "relativePath": "\\AI数字人直播\\自序：当短视频遇上AI，普通人如何抓住这波财富浪潮？.md",
+      "docPath": "docs\\docs\\AI数字人直播"
+    },
+    {
+      "id": 226983609,
+      "doc_id": "ki3avb2eo29qqppn",
+      "updated": 1751882850000,
+      "properties": {
+        "title": "第一章：时代红利：为什么AI无人直播是下一个风口？",
+        "urlname": "ki3avb2eo29qqppn",
+        "date": "2025-07-07 18:06:43",
+        "updated": "2025-07-07 18:07:30",
+        "description": "1.1 短视频平台的流量逻辑：从“注意力经济”到“时长争夺战”在当今数字化的时代，短视频平台的崛起无疑是最为耀眼的商业现象之一。抖音、快手、视频号等平台如同一个个巨大的流量磁场，吸引着数以亿计的用户沉浸其中。它们的成功背后，核心的逻辑是“注意力经济”——在这个信息过载的时代，谁能成功吸引用户的..."
+      },
+      "catalog": [
+        {
+          "title": "AI数字人直播",
+          "doc_id": "ki3avb2eo29qqppn"
+        }
+      ],
+      "realName": "第一章：时代红利：为什么AI无人直播是下一个风口？",
+      "relativePath": "\\AI数字人直播\\第一章：时代红利：为什么AI无人直播是下一个风口？.md",
+      "docPath": "docs\\docs\\AI数字人直播"
+    },
+    {
+      "id": 226983686,
+      "doc_id": "roolim3hg1061ggs",
+      "updated": 1751882880000,
+      "properties": {
+        "title": "第二章：底层逻辑：AI无人直播的四大核心模式",
+        "urlname": "roolim3hg1061ggs",
+        "date": "2025-07-07 18:07:30",
+        "updated": "2025-07-07 18:08:00",
+        "description": "2.1 录播素材+人说话不露脸：低成本启动的“流量永动机”模式定义：通过剪辑高传播性短视频素材作为直播循环内容，搭配TTS语音或真人录音实现“只闻其声不见其人”的直播效果，以极低的成本持续吸引流量。技术支撑：录播素材库搭建：从抖音、快手等平台筛选高播放量（10万+）短视频，优先选择三类内容——..."
+      },
+      "catalog": [
+        {
+          "title": "AI数字人直播",
+          "doc_id": "roolim3hg1061ggs"
+        }
+      ],
+      "realName": "第二章：底层逻辑：AI无人直播的四大核心模式",
+      "relativePath": "\\AI数字人直播\\第二章：底层逻辑：AI无人直播的四大核心模式.md",
+      "docPath": "docs\\docs\\AI数字人直播"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "TITLE",
+      "title": "无人直播",
+      "uuid": "IZpIh6RbXqy15WvJ",
+      "url": "",
+      "prev_uuid": "",
+      "sibling_uuid": "1iYKhybUGYdJOds3",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "AI语音直播",
+      "uuid": "1iYKhybUGYdJOds3",
+      "url": "",
+      "prev_uuid": "IZpIh6RbXqy15WvJ",
+      "sibling_uuid": "1oZja0Ti-p5IX4fX",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "AI数字人直播",
+      "uuid": "1oZja0Ti-p5IX4fX",
+      "url": "",
+      "prev_uuid": "1iYKhybUGYdJOds3",
+      "sibling_uuid": "",
+      "child_uuid": "gCwOSnX2UjIp9ics",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "自序：当短视频遇上AI，普通人如何抓住这波财富浪潮？",
+      "uuid": "gCwOSnX2UjIp9ics",
+      "url": "swho8lm85ob1aycs",
+      "prev_uuid": "1oZja0Ti-p5IX4fX",
+      "sibling_uuid": "m0cHIipVwr4K9V4V",
+      "child_uuid": "",
+      "parent_uuid": "1oZja0Ti-p5IX4fX",
+      "doc_id": 226983360,
+      "level": 1,
+      "id": 226983360,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "第一章：时代红利：为什么AI无人直播是下一个风口？",
+      "uuid": "m0cHIipVwr4K9V4V",
+      "url": "ki3avb2eo29qqppn",
+      "prev_uuid": "gCwOSnX2UjIp9ics",
+      "sibling_uuid": "okP0XMt6FihWcz06",
+      "child_uuid": "",
+      "parent_uuid": "1oZja0Ti-p5IX4fX",
+      "doc_id": 226983609,
+      "level": 1,
+      "id": 226983609,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "第二章：底层逻辑：AI无人直播的四大核心模式",
+      "uuid": "okP0XMt6FihWcz06",
+      "url": "roolim3hg1061ggs",
+      "prev_uuid": "m0cHIipVwr4K9V4V",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "1oZja0Ti-p5IX4fX",
+      "doc_id": 226983686,
+      "level": 1,
+      "id": 226983686,
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}
