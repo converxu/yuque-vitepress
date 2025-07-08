@@ -45,12 +45,12 @@
     {
       "id": 226983686,
       "doc_id": "roolim3hg1061ggs",
-      "updated": 1751882880000,
+      "updated": 1751948316000,
       "properties": {
         "title": "第二章：底层逻辑：AI无人直播的四大核心模式",
         "urlname": "roolim3hg1061ggs",
         "date": "2025-07-07 18:07:30",
-        "updated": "2025-07-07 18:08:00",
+        "updated": "2025-07-08 12:18:36",
         "description": "2.1 录播素材+人说话不露脸：低成本启动的“流量永动机”模式定义：通过剪辑高传播性短视频素材作为直播循环内容，搭配TTS语音或真人录音实现“只闻其声不见其人”的直播效果，以极低的成本持续吸引流量。技术支撑：录播素材库搭建：从抖音、快手等平台筛选高播放量（10万+）短视频，优先选择三类内容——..."
       },
       "catalog": [
@@ -61,6 +61,27 @@
       ],
       "realName": "第二章：底层逻辑：AI无人直播的四大核心模式",
       "relativePath": "\\AI数字人直播\\第二章：底层逻辑：AI无人直播的四大核心模式.md",
+      "docPath": "docs\\docs\\AI数字人直播"
+    },
+    {
+      "id": 227130678,
+      "doc_id": "sqxlm3dzbi16nrgg",
+      "updated": 1751962757000,
+      "properties": {
+        "title": "第三章：实战指南：从0到1搭建AI无人直播系统",
+        "urlname": "sqxlm3dzbi16nrgg",
+        "date": "2025-07-08 16:18:36",
+        "updated": "2025-07-08 16:19:17",
+        "description": "3.1 硬件准备：低成本启动的“轻资产”方案在AI无人直播的硬件准备上，创业者无需投入巨额资金购买高端设备，“轻资产”模式完全可以满足初期运营需求。对于个人创业者或中小商家而言，可根据自身预算和业务场景，选择不同配置的硬件组合，在控制成本的同时确保直播效果。基础版硬件配置（成本＜1000元）手..."
+      },
+      "catalog": [
+        {
+          "title": "AI数字人直播",
+          "doc_id": "sqxlm3dzbi16nrgg"
+        }
+      ],
+      "realName": "第三章：实战指南：从0到1搭建AI无人直播系统",
+      "relativePath": "\\AI数字人直播\\第三章：实战指南：从0到1搭建AI无人直播系统.md",
       "docPath": "docs\\docs\\AI数字人直播"
     }
   ],
@@ -146,12 +167,27 @@
       "uuid": "okP0XMt6FihWcz06",
       "url": "roolim3hg1061ggs",
       "prev_uuid": "m0cHIipVwr4K9V4V",
-      "sibling_uuid": "",
+      "sibling_uuid": "TJHaD-a-Sc0Osgtm",
       "child_uuid": "",
       "parent_uuid": "1oZja0Ti-p5IX4fX",
       "doc_id": 226983686,
       "level": 1,
       "id": 226983686,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "第三章：实战指南：从0到1搭建AI无人直播系统",
+      "uuid": "TJHaD-a-Sc0Osgtm",
+      "url": "sqxlm3dzbi16nrgg",
+      "prev_uuid": "okP0XMt6FihWcz06",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "1oZja0Ti-p5IX4fX",
+      "doc_id": 227130678,
+      "level": 1,
+      "id": 227130678,
       "open_window": 1,
       "visible": 1
     }

@@ -27,6 +27,7 @@
   "homepage": "https://github.com/elog-x/yuque-vitepress#readme",
   "dependencies": {
     "@elog/cli": "^0.13.2",
+    "@vercel/speed-insights": "^1.2.0",
     "vitepress": "^1.0.0-rc.27"
   }
 }
