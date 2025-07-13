@@ -12,7 +12,13 @@ export default defineConfig({
   ignoreDeadLinks: true,
   head: [
     [
-      'link', { rel: 'icon', href: '/favicon.ico' }
+      'link', { rel: 'icon', href: '/favicon.ico' },
+    ],
+    [
+      'meta', { name: 'baidu-site-verification', content: 'codeva-xpFJAqrkK7' }
+    ],
+    [
+      'meta', { name: 'bytedance-verification-code', content: 'QrLlmwWelFJaOij7Kh7V' }
     ]
   ],
   themeConfig: {
